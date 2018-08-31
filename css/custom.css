@@ -1,0 +1,202 @@
+* {
+     box-sizing:border-box; 
+}
+body{
+    font-family:sans-serif;
+    color: #6c757d;
+   
+}
+.menus_custom{
+    
+   background-color:#706fd3; 
+   height: auto;
+   /* width:25%; */
+   /* position:static; */
+   /* float:left; */
+   
+   width: 250px;
+   min-width:100px;
+   padding:0 1em 0 1em;
+   
+}
+nav a{
+    color: inherit;
+    text-decoration: none;
+}
+nav a:hover{
+    color: inherit;
+    text-decoration: none;
+}
+.menus_custom ul {
+    margin-top: 15vh;
+    list-style: none;
+    padding:0 1vw 0 1vw;
+    position:fixed; 
+    margin:auto;
+    margin-top:15vh;
+    margin-left:1.25%;
+    
+}
+.menus_custom ul li {
+   padding:0.3em 0 0.3em 0;
+   font-size:1em;
+   text-align:center;
+   cursor: pointer;
+   color:rgb(238, 221, 221) !important;
+   font-weight: bold;
+   
+}
+.menus_custom ul li a:hover { 
+    color: #303079 !important;
+}
+.sections{
+    width:calc(100% - 251px);
+    /* width: 75%;  */
+    background-color: rgb(243, 250, 250);
+    /* float:right; */
+    
+}
+.sections ul{
+    list-style: none;
+}
+.sections section{
+    min-height:100vh;
+    /* margin-left: 0em; */
+    padding:0 3em 0 3em; 
+   
+    margin-bottom:20vh;
+    margin-top:20vh;
+   
+}
+
+#about{
+   
+}
+.about_section_name{
+
+    margin-top:10vh !important;
+    
+}
+
+#about .about_content{
+    padding: 0em 0 0em 0em;
+}
+.sectionStyle{
+   
+    padding-top:15vh; 
+    padding-bottom:15vh; 
+   /* width: 100%; */
+   /* position: relative; */
+
+}
+.textHeadingColor{
+    color: #303079  !important;
+}
+.about_content p.name{
+    font-size: 4.0em;
+    font-weight:bold;
+    color: #303079  !important;
+    text-transform: capitalize;
+    font-variant-caps: petite-caps;
+    font-variant: small-caps;
+}
+.sectionHeader{
+
+    font-size: 1.6em;
+    color: #6c757d !important;
+    font-weight:bold;
+}
+.menus_custom img{
+     border: 3px solid #a09fda; 
+    background-color: #a09fda;
+    padding: 5px;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+}
+.socialMedia{
+     list-style: none; 
+    
+}
+.socialMedia{
+     list-style: none; 
+    
+}
+
+
+.icons{
+    margin-left: 0em;
+}
+.icons span
+{
+    font-size: 2.5em;
+    padding:0 0.3em 0 0em;
+    cursor: pointer;
+}
+.icons span:hover
+{
+    color:#303079  !important; 
+}
+
+#technicalSkills table {
+    width:100%;
+    height:100%;
+}
+#technicalSkills table td {
+  
+  padding-top:1em;
+}
+#wkExp .sectionStyle{
+     /* margin-top: 20% !important;  */
+}
+#education .sectionStyle{
+    /* margin-top: 20% !important;   */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
